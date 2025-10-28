@@ -1,4 +1,4 @@
-```markdown
+<!-- ```markdown -->
 # 🎟️ Ticket Management Web App (Vue Version)
 
 ## 🧩 Overview
